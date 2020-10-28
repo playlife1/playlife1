@@ -3,8 +3,7 @@
 I’m a Web developer from China. My English name is Johnny, you can also call me playlife. This is my pronouns on Internet.
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/playlife?gradient=skyline" width="512" height="128" alt="My pronouns are playlife">
-</a>=
+  <img src="https://pronouns.vercel.app/playlife?gradient=skyline" width="512" height="128" alt="My pronouns are playlife"></a>
 
 **Somethings about me：**
 
