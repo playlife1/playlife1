@@ -10,7 +10,7 @@ I’m a Web developer from China. My English name is Johnny, you can also call m
 
 - 👨🏻‍💻 I’m currently learning Web development technology
 - 🙇🏻‍♂️ I’m looking for help with find a job as a font-end developer
-- 💡 I’m willing to share knowledge and I use github to upload my learning materials
+- ✍🏻 I’m willing to share knowledge and I use github to upload my learning materials
 - ...
 
 **Languages and Tools:**
