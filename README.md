@@ -8,7 +8,7 @@ I’m a Web developer from China. My English name is Johnny, you can also call m
 **Somethings about me：**
 
 - 👨🏻‍💻 I’m currently learning Web development technology
-- 🙇🏻‍♂️ I’m looking for a job as a font-end developer
+- 🙇🏻‍♂️ I’m looking for a job as a front-end developer
 - ✍🏻 I’m willing to share knowledge and I use github to upload my learning materials
 - ...
 
